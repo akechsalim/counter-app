@@ -1,19 +1,27 @@
-.countButton{
-    font-size : 16px;
-    background-color: #00a5ab;
-    width : 100px;
+button {
+    font-size : 20px;
+    width : 90px;
     margin: 10px;
     color: white;
     padding: 15px;
-    border-radius:30px;
+    border-radius:20px;
     border-color: black;
-    border-width: 5px;
+    border-width: 3px;
+}
+
+.countButton{
+    
+    background-color:orange;
+  
+}
+.resetButton{
+    background-color: grey;
 }
 .count{
 font-size: 50px;
 padding: 20px;
 }
 .totalCount{
-    color: #00a5ab;
+    color: black;
     font-size: 150px;
 }
